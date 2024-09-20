@@ -61,6 +61,12 @@ export default function Romanji() {
             'ra': ['ra', 'ri', 'ru', 're', 'ro'],
             'wa': ['wa', 'wo'],
             'n': ['n'],
+            'ga':['ga', 'gi', 'gu', 'ge', 'go'],
+            'za':['za', 'ji', 'zu', 'ze', 'zo'],
+            'da':['da', 'ji', 'du', 'de', 'do'],
+            'ba':['ba', 'bi', 'bu', 'be', 'bo'],
+            'pa':['pa', 'pi', 'pu', 'pe', 'po'],
+            'kya':['kya', 'kyu', 'kyo', 'sha', 'shu', 'sho', 'cha', 'chu', 'cho', 'nya', 'nyu', 'nyo', 'hya', 'hyu', 'hyo', 'mya', 'myu', 'myo', 'rya', 'ryu', 'ryo', 'gya', 'gyu', 'gyo', 'ja', 'ju', 'jo', 'bya', 'byu', 'byo', 'pya', 'pyu', 'pyo'],
             'all': ['all'] // this represents selecting all kana
         };
         return families[family] || [];
@@ -181,7 +187,7 @@ export default function Romanji() {
                         </button>
                         {kanaTypes.includes('hiragana') && (
                             <div className="flex flex-wrap gap-2 my-4 justify-center w-full transition-all duration-300">
-                                {['a', 'ka', 'sa', 'ta', 'na', 'ha', 'ma', 'ya', 'ra', 'wa', 'n', 'all'].map(option => (
+                                {['a', 'ka', 'sa', 'ta', 'na', 'ha', 'ma', 'ya', 'ra', 'wa', 'n', 'ga', 'za', 'da', 'ba', 'pa','kya','all'].map(option => (
                                     <label key={option} className="flex items-center space-x-2 text-white">
                                         <input
                                             type="checkbox"
@@ -204,7 +210,7 @@ export default function Romanji() {
                         </button>
                         {kanaTypes.includes('katakana') && (
                             <div className="flex flex-wrap gap-2 my-4 justify-center w-full transition-all duration-300">
-                                {['a', 'ka', 'sa', 'ta', 'na', 'ha', 'ma', 'ya', 'ra', 'wa', 'n', 'all'].map(option => (
+                                {['a', 'ka', 'sa', 'ta', 'na', 'ha', 'ma', 'ya', 'ra', 'wa', 'n', 'ga', 'za', 'da', 'ba', 'pa','kya','all'].map(option => (
                                     <label key={option} className="flex items-center space-x-2 text-white">
                                         <input
                                             type="checkbox"

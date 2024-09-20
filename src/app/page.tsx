@@ -36,3 +36,4 @@ export default function App() {
   );
 }
 // https://gist.githubusercontent.com/mdzhang/53b362cadebf2785ca43/raw/98c597f16604b7e53539105e081de31c86a72f2c/katakana.json
+// https://gist.github.com/mdzhang/899a427eb3d0181cd762
