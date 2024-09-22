@@ -3,6 +3,7 @@ import { useState } from 'react';
 
 import Romanji from './test';
 import Kana from './test2';
+import Kanji from './kanji';
 
 import { Home } from 'lucide-react';
 
@@ -14,7 +15,7 @@ export default function App() {
       <Home strokeWidth={2} size={34} color='#FFFFFF' onClick={() => setChoise('')} className='absolute top-5 right-10 hover:cursor-pointer hover:size-9' />
 
       {choise.length !== 0 ?
-        (choise === "kanaRomanji" ? <Romanji /> : <Kana />)
+        (choise === "kanaRomanji" ? <Romanji /> : choise === "kanji" ? <Kanji /> : <Kana />)
         :
         <>
           <div className="w-full text-center pt-8">
@@ -27,6 +28,9 @@ export default function App() {
               </button>
               <button onClick={() => setChoise('romanjiKana')} className="bg-green-500 text-white px-6 py-3 rounded hover:bg-green-600 transition">
                 Romanji -{'>'} Kana
+              </button>
+              <button onClick={() => setChoise('kanji')} className="bg-green-500 text-white px-6 py-3 rounded hover:bg-green-600 transition">
+                Kanji
               </button>
             </div>
           </div>

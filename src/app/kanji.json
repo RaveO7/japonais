@@ -1,0 +1,47 @@
+[
+  {
+    "kana": "方",
+    "roumaji": "かた",
+    "type": "personne"
+  },
+  {
+    "kana": "何歳",
+    "roumaji": "なんさい",
+    "type": "Quel âge?"
+  },
+  {
+    "kana": "何",
+    "roumaji": "なに",
+    "type": "Quel?"
+  },
+  {
+    "kana": "歳",
+    "roumaji": "さい",
+    "type": "âge"
+  },
+  {
+    "kana": "先生",
+    "roumaji": "せんせい",
+    "type": "professeur"
+  },
+  {
+    "kana": "田中",
+    "roumaji": "たなか",
+    "type": "Tanaka"
+  },
+  {
+    "kana": "銀行員",
+    "roumaji": "ぎんこういん",
+    "type": "employé de banque"
+  },
+  {
+    "kana": "学生",
+    "roumaji": "がくせい",
+    "type": "étudiant"
+  },
+  {
+    "kana": "電気",
+    "roumaji": "でんき",
+    "type": "electric"
+  }
+]
