@@ -43,5 +43,65 @@
     "kana": "電気",
     "roumaji": "でんき",
     "type": "electric"
+  },
+  {
+    "kana": "失礼",
+    "roumaji": "しつれい",
+    "type": "grossier, malpolie"
+  },
+  {
+    "kana": "失礼",
+    "roumaji": "しつれい",
+    "type": "nom"
+  },
+  {
+    "kana": "国",
+    "roumaji": "くに",
+    "type": "pays"
+  },
+  {
+    "kana": "来",
+    "roumaji": "キ",
+    "type": "venir de"
+  },
+  {
+    "kana": "願",
+    "roumaji": "がん nega",
+    "type": ""
+  },
+  {
+    "kana": "中国",
+    "roumaji": "ちゅうごく",
+    "type": "chine"
+  },
+  {
+    "kana": "初",
+    "roumaji": "うぶ haji",
+    "type": ""
+  },
+  {
+    "kana": "手帳",
+    "roumaji": "techou",
+    "type": "carnet"
+  },
+  {
+    "kana": "会社",
+    "roumaji": "kaisha",
+    "type": "entreprise"
+  },
+  {
+    "kana": "傘",
+    "roumaji": "kasa",
+    "type": "parapluie"
+  },
+  {
+    "kana": "違",
+    "roumaji": "chigai",
+    "type": "erreur"
+  },
+  {
+    "kana": "車",
+    "roumaji": "kuruma",
+    "type": "voiture"
   }
 ]
