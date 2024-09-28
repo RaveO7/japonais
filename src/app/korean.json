@@ -1,0 +1,202 @@
+[
+  {
+    "letter": "ㄱ",
+    "pronunciation": "g/k",
+    "type": "consonne"
+  },
+  {
+    "letter": "ㄲ",
+    "pronunciation": "kk",
+    "type": "consonne"
+  },
+  {
+    "letter": "ㄴ",
+    "pronunciation": "n",
+    "type": "consonne"
+  },
+  {
+    "letter": "ㄷ",
+    "pronunciation": "d/t",
+    "type": "consonne"
+  },
+  {
+    "letter": "ㄸ",
+    "pronunciation": "tt",
+    "type": "consonne"
+  },
+  {
+    "letter": "ㄹ",
+    "pronunciation": "r/l",
+    "type": "consonne"
+  },
+  {
+    "letter": "ㅁ",
+    "pronunciation": "m",
+    "type": "consonne"
+  },
+  {
+    "letter": "ㅂ",
+    "pronunciation": "b/p",
+    "type": "consonne"
+  },
+  {
+    "letter": "ㅃ",
+    "pronunciation": "pp",
+    "type": "consonne"
+  },
+  {
+    "letter": "ㅅ",
+    "pronunciation": "s",
+    "type": "consonne"
+  },
+  {
+    "letter": "ㅆ",
+    "pronunciation": "ss",
+    "type": "consonne"
+  },
+  {
+    "letter": "ㅇ",
+    "pronunciation": "silent/ng",
+    "type": "consonne"
+  },
+  {
+    "letter": "ㅈ",
+    "pronunciation": "j/ch",
+    "type": "consonne"
+  },
+  {
+    "letter": "ㅉ",
+    "pronunciation": "jj",
+    "type": "consonne"
+  },
+  {
+    "letter": "ㅊ",
+    "pronunciation": "ch",
+    "type": "consonne"
+  },
+  {
+    "letter": "ㅋ",
+    "pronunciation": "k",
+    "type": "consonne"
+  },
+  {
+    "letter": "ㅌ",
+    "pronunciation": "t",
+    "type": "consonne"
+  },
+  {
+    "letter": "ㅍ",
+    "pronunciation": "p",
+    "type": "consonne"
+  },
+  {
+    "letter": "ㅎ",
+    "pronunciation": "h",
+    "type": "consonne"
+  },
+  {
+    "letter": "ㅏ",
+    "pronunciation": "a",
+    "type": "voyelle"
+  },
+  {
+    "letter": "ㅑ",
+    "pronunciation": "ya",
+    "type": "voyelle"
+  },
+  {
+    "letter": "ㅓ",
+    "pronunciation": "eo",
+    "type": "voyelle"
+  },
+  {
+    "letter": "ㅕ",
+    "pronunciation": "yeo",
+    "type": "voyelle"
+  },
+  {
+    "letter": "ㅗ",
+    "pronunciation": "o",
+    "type": "voyelle"
+  },
+  {
+    "letter": "ㅛ",
+    "pronunciation": "yo",
+    "type": "voyelle"
+  },
+  {
+    "letter": "ㅜ",
+    "pronunciation": "u",
+    "type": "voyelle"
+  },
+  {
+    "letter": "ㅠ",
+    "pronunciation": "yu",
+    "type": "voyelle"
+  },
+  {
+    "letter": "ㅡ",
+    "pronunciation": "eu",
+    "type": "voyelle"
+  },
+  {
+    "letter": "ㅣ",
+    "pronunciation": "i",
+    "type": "voyelle"
+  },
+  {
+    "letter": "ㅐ",
+    "pronunciation": "ae",
+    "type": "voyelle"
+  },
+  {
+    "letter": "ㅒ",
+    "pronunciation": "yae",
+    "type": "voyelle"
+  },
+  {
+    "letter": "ㅔ",
+    "pronunciation": "e",
+    "type": "voyelle"
+  },
+  {
+    "letter": "ㅖ",
+    "pronunciation": "ye",
+    "type": "voyelle"
+  },
+  {
+    "letter": "ㅘ",
+    "pronunciation": "wa",
+    "type": "voyelle"
+  },
+  {
+    "letter": "ㅙ",
+    "pronunciation": "wae",
+    "type": "voyelle"
+  },
+  {
+    "letter": "ㅚ",
+    "pronunciation": "oe",
+    "type": "voyelle"
+  },
+  {
+    "letter": "ㅝ",
+    "pronunciation": "wo",
+    "type": "voyelle"
+  },
+  {
+    "letter": "ㅞ",
+    "pronunciation": "we",
+    "type": "voyelle"
+  },
+  {
+    "letter": "ㅟ",
+    "pronunciation": "wi",
+    "type": "voyelle"
+  },
+  {
+    "letter": "ㅢ",
+    "pronunciation": "ui",
+    "type": "voyelle"
+  }
+]

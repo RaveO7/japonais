@@ -1,0 +1,67 @@
+[
+  {
+    "kana": "零",
+    "roumaji": "れい",
+    "type": "0"
+  },
+  {
+    "kana": "一",
+    "roumaji": "いち",
+    "type": "1"
+  },
+  {
+    "kana": "二",
+    "roumaji": "に",
+    "type": "2"
+  },
+  {
+    "kana": "三",
+    "roumaji": "さん",
+    "type": "3"
+  },
+  {
+    "kana": "四",
+    "roumaji": "し",
+    "type": "4"
+  },
+  {
+    "kana": "五",
+    "roumaji": "ご",
+    "type": "5"
+  },
+  {
+    "kana": "六",
+    "roumaji": "ろく",
+    "type": "6"
+  },
+  {
+    "kana": "七",
+    "roumaji": "しち",
+    "type": "7"
+  },
+  {
+    "kana": "八",
+    "roumaji": "はち",
+    "type": "8"
+  },
+  {
+    "kana": "九",
+    "roumaji": "きゅう",
+    "type": "9"
+  },
+  {
+    "kana": "十",
+    "roumaji": "じゅう",
+    "type": "10"
+  },
+  {
+    "kana": "百",
+    "roumaji": "ひゃく",
+    "type": "100"
+  },
+  {
+    "kana": "千",
+    "roumaji": "せん",
+    "type": "1000"
+  }
+]
