@@ -4,6 +4,7 @@ import { useState } from 'react';
 import Romanji from './test';
 import Kana from './test2';
 import Kanji from './kanji';
+import Kanji1 from './kanji1';
 import Number from './number';
 import Korean from './korean';
 
@@ -17,7 +18,7 @@ export default function App() {
       <Home strokeWidth={2} size={34} color='#FFFFFF' onClick={() => setChoise('')} className='absolute top-5 right-10 hover:cursor-pointer hover:size-9' />
 
       {choise.length !== 0 ?
-        (choise === "kanaRomanji" ? <Romanji /> : choise === "kanji" ? <Kanji /> : choise == "number" ? <Number /> : choise == "korean" ? <Korean /> : <Kana />)
+        (choise === "kanaRomanji" ? <Romanji /> : choise === "kanji" ? <Kanji /> : choise == "number" ? <Number /> : choise == "korean" ? <Korean /> : choise == "kanji1" ? <Kanji1 /> : <Kana />)
         :
         <>
           <div className="w-full text-center pt-8">
@@ -33,6 +34,9 @@ export default function App() {
               </button>
               <button onClick={() => setChoise('kanji')} className="bg-green-500 text-white px-6 py-3 rounded hover:bg-green-600 transition">
                 Kanji
+              </button>
+              <button onClick={() => setChoise('kanji1')} className="bg-green-500 text-white px-6 py-3 rounded hover:bg-green-600 transition">
+                Kanji Leçon 1
               </button>
               <button onClick={() => setChoise('number')} className="bg-green-500 text-white px-6 py-3 rounded hover:bg-green-600 transition">
                 Number
