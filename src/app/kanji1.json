@@ -1,5 +1,10 @@
 [
   {
+    "kana": "社員",
+    "roumaji": "しゃいん",
+    "type": "employé de banque"
+  },
+  {
     "kana": "人",
     "roumaji": "ひと",
     "type": "personne"
@@ -70,11 +75,6 @@
     "type": "pays"
   },
   {
-    "kana": "来",
-    "roumaji": "キ",
-    "type": "venir de"
-  },
-  {
     "kana": "中国",
     "roumaji": "ちゅうごく",
     "type": "Ｃhine　(pays du milieu)"
@@ -95,19 +95,98 @@
     "type": "Japonais"
   },
   {
-    "kana": "家",
-    "roumaji": "いえ",
-    "type": "Anglais"
-  },
-  {
     "kana": "語",
     "roumaji": "ご",
     "type": "la langue"
   },
   {
     "kana": "家語",
-    "roumaji": "いえご",
+    "roumaji": "えいご",
     "type": "la langue Anglaise"
+  },
+  {
+    "kana": "アメリカ",
+    "roumaji": "Américain",
+    "type": ""
+  },
+  {
+    "kana": "イギリス",
+    "roumaji": "Anglais",
+    "type": ""
+  },
+  {
+    "kana": "イタリア",
+    "roumaji": "Italien",
+    "type": ""
+  },
+  {
+    "kana": "インド",
+    "roumaji": "Indien",
+    "type": ""
+  },
+  {
+    "kana": "インドネシア",
+    "roumaji": "Indonésien",
+    "type": ""
+  },
+  {
+    "kana": "スイス",
+    "roumaji": "Suisse",
+    "type": ""
+  },
+  {
+    "kana": "タイ",
+    "roumaji": "Thaillandais",
+    "type": ""
+  },
+  {
+    "kana": "ドイツ",
+    "roumaji": "Allemand",
+    "type": ""
+  },
+  {
+    "kana": "ブラジル",
+    "roumaji": "Brésile",
+    "type": ""
+  },
+  {
+    "kana": "メキシコ",
+    "roumaji": "Mexique",
+    "type": ""
+  },
+  {
+    "kana": "フランス",
+    "roumaji": "Français",
+    "type": ""
+  },
+  {
+    "kana": "",
+    "roumaji": "",
+    "type": "Kôbe"
+  },
+  {
+    "kana": "ブラジルイアー",
+    "roumaji": "Brasil Air",
+    "type": ""
+  },
+  {
+    "kana": "山田",
+    "roumaji": "Yamada",
+    "type": "Yamada"
+  },
+  {
+    "kana": "田中",
+    "roumaji": "Tanaka",
+    "type": ""
+  },
+  {
+    "kana": "何",
+    "roumaji": "なに",
+    "type": "quoi?"
+  },
+  {
+    "kana": "歳",
+    "roumaji": "さい",
+    "type": "âge"
   }
-  
 ]
