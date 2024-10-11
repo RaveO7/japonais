@@ -1,0 +1,178 @@
+[
+  {
+    "kana": "人",
+    "roumaji": "ひと",
+    "type": "personne"
+  },
+  {
+    "kana": "方",
+    "roumaji": "かた",
+    "type": "personne　(polie)"
+  },
+  {
+    "kana": "会社員",
+    "roumaji": "かいしゃいん",
+    "type": "employé de l'entreprise"
+  },
+  {
+    "kana": "社員",
+    "roumaji": "しゃいん",
+    "type": "employé de l'entreprise (entreprise connue dans la conversation)"
+  },
+  {
+    "kana": "銀行員",
+    "roumaji": "ぎんこういん",
+    "type": "employé de banque"
+  },
+  {
+    "kana": "先生",
+    "roumaji": "せんせい",
+    "type": "professeur"
+  },
+  {
+    "kana": "学生",
+    "roumaji": "がくせい",
+    "type": "étudiant"
+  },
+  {
+    "kana": "医者",
+    "roumaji": "いしゃ",
+    "type": "medecin"
+  },
+  {
+    "kana": "研究者",
+    "roumaji": "けんきゅうしゃ",
+    "type": "chercheur"
+  },
+  {
+    "kana": "会社",
+    "roumaji": "かいしゃ",
+    "type": "entreprise"
+  },
+  {
+    "kana": "大学",
+    "roumaji": "だいがく",
+    "type": "université"
+  },
+  {
+    "kana": "病院",
+    "roumaji": "びょいん",
+    "type": "hôpital"
+  },
+  {
+    "kana": "何歳",
+    "roumaji": "なんさい",
+    "type": "Quel âge?"
+  },
+  {
+    "kana": "何",
+    "roumaji": "なに",
+    "type": "Quel?"
+  },
+  {
+    "kana": "歳",
+    "roumaji": "さい",
+    "type": "âge"
+  },
+  {
+    "kana": "田中",
+    "roumaji": "たなか",
+    "type": "Tanaka"
+  },
+  {
+    "kana": "電気",
+    "roumaji": "でんき",
+    "type": "electric"
+  },
+  {
+    "kana": "失礼",
+    "roumaji": "しつれい",
+    "type": "grossier, malpolie"
+  },
+  {
+    "kana": "失礼",
+    "roumaji": "しつれい",
+    "type": "nom"
+  },
+  {
+    "kana": "願",
+    "roumaji": "がん nega",
+    "type": ""
+  },
+  {
+    "kana": "初",
+    "roumaji": "うぶ haji",
+    "type": ""
+  },
+  {
+    "kana": "手帳",
+    "roumaji": "てちょう",
+    "type": "carnet"
+  },
+  {
+    "kana": "傘",
+    "roumaji": "かさ",
+    "type": "parapluie"
+  },
+  {
+    "kana": "違",
+    "roumaji": "ちがい",
+    "type": "erreur"
+  },
+  {
+    "kana": "車",
+    "roumaji": "くるま",
+    "type": "voiture"
+  },
+  {
+    "kana": "電話番号",
+    "roumaji": "でんわばんごう",
+    "type": "numéro de téléphone"
+  },
+  {
+    "kana": "国",
+    "roumaji": "くに",
+    "type": "pays"
+  },
+  {
+    "kana": "来",
+    "roumaji": "キ",
+    "type": "venir de"
+  },
+  {
+    "kana": "中国",
+    "roumaji": "ちゅうごく",
+    "type": "Ｃhine　(pays du milieu)"
+  },
+  {
+    "kana": "韓国",
+    "roumaji": "かんこく",
+    "type": "Corée"
+  },
+  {
+    "kana": "日本",
+    "roumaji": "にほん",
+    "type": "Japon"
+  },
+  {
+    "kana": "日本人",
+    "roumaji": "にほんじん",
+    "type": "Japonais"
+  },
+  {
+    "kana": "家",
+    "roumaji": "いえ",
+    "type": "Anglais"
+  },
+  {
+    "kana": "語",
+    "roumaji": "ご",
+    "type": "la langue"
+  },
+  {
+    "kana": "家語",
+    "roumaji": "いえご",
+    "type": "la langue Anglaise"
+  }
+  
+]

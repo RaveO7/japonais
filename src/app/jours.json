@@ -1,0 +1,37 @@
+[
+  {
+    "kana": "月曜日",
+    "roumaji": "げつようび",
+    "type": "lundi"
+  },
+  {
+    "kana": "火曜日",
+    "roumaji": "かようび",
+    "type": "mardi"
+  },
+  {
+    "kana": "水曜日",
+    "roumaji": "すいようび",
+    "type": "mercredi"
+  },
+  {
+    "kana": "木曜日",
+    "roumaji": "もくようび",
+    "type": "jeudi"
+  },
+  {
+    "kana": "金曜日",
+    "roumaji": "きんようび",
+    "type": "vendredi"
+  },
+  {
+    "kana": "土曜日",
+    "roumaji": "どようび",
+    "type": "samedi"
+  },
+  {
+    "kana": "日曜日",
+    "roumaji": "にちようび",
+    "type": "dimanche"
+  }
+]
